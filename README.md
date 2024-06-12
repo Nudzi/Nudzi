@@ -14,6 +14,9 @@
 - **Angular** - Proficient in building dynamic and scalable web applications
 
 
+<p align="center">
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=nudzi&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+</p>
 <!--
 **Nudzi/Nudzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
